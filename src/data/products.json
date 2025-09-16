@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Wireless Headphones",
+    "price": 299,
+    "originalPrice": 399,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop&crop=center",
+    "category": "Electronics",
+    "rating": 4.8,
+    "description": "Experience superior sound quality with our premium wireless headphones featuring noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Eco-Friendly Water Bottle",
+    "price": 45,
+    "originalPrice": 60,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=400&fit=crop&crop=center",
+    "category": "Lifestyle",
+    "rating": 4.6,
+    "description": "Stay hydrated with our sustainable, BPA-free water bottle designed for active lifestyles."
+  },
+  {
+    "id": 3,
+    "name": "Smart Fitness Tracker",
+    "price": 199,
+    "originalPrice": 249,
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=400&fit=crop&crop=center",
+    "category": "Health",
+    "rating": 4.7,
+    "description": "Track your fitness goals with advanced health monitoring and smartphone integration."
+  },
+  {
+    "id": 4,
+    "name": "Minimalist Backpack",
+    "price": 89,
+    "originalPrice": 120,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop&crop=center",
+    "category": "Fashion",
+    "rating": 4.5,
+    "description": "A sleek, minimalist backpack perfect for work, travel, and everyday adventures."
+  },
+  {
+    "id": 5,
+    "name": "Organic Coffee Blend",
+    "price": 24,
+    "originalPrice": 32,
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400&h=400&fit=crop&crop=center",
+    "category": "Food",
+    "rating": 4.9,
+    "description": "Premium organic coffee beans roasted to perfection for the ultimate coffee experience."
+  },
+  {
+    "id": 6,
+    "name": "Wireless Charging Pad",
+    "price": 59,
+    "originalPrice": 79,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400&h=400&fit=crop&crop=center",
+    "category": "Electronics",
+    "rating": 4.4,
+    "description": "Fast wireless charging for all compatible devices with sleek, modern design."
+  }
+]

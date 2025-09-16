@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "role": "Product Manager",
+    "company": "TechCorp",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b563?w=100&h=100&fit=crop&crop=face",
+    "content": "The quality exceeded my expectations! Fast shipping and amazing customer service. I'll definitely be ordering again.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "role": "Designer",
+    "company": "Creative Studio",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+    "content": "Incredible attention to detail and premium materials. This company really understands what customers want.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "role": "Marketing Director",
+    "company": "GrowthLab",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+    "content": "Outstanding products and seamless shopping experience. The website is beautiful and easy to navigate.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "David Thompson",
+    "role": "Entrepreneur",
+    "company": "StartupXYZ",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+    "content": "Great value for money and top-notch customer support. Highly recommend to anyone looking for quality products.",
+    "rating": 5
+  }
+]
